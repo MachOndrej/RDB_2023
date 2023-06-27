@@ -148,14 +148,7 @@ public class MongoDBManager {
 
 //        System.out.println(Arrays.toString(mongoDBManager.getMinMaxTempsForPlace("Prh")));
         System.out.println(mongoDBManager.getSameTempsTwoPlaces("Zapalovac", "Prh"));
-        //Přidávaný záznam
-//        Document document = new Document("name", "Eva Farná")
-//                .append("age", 19)
-//                .append("city", "Tvoje postel");
-//
-//        mongoDBManager.insertDocument(document);
-//        mongoDBManager.queryDocuments("name", "Eva Farná");
-//        mongoDBManager.updateDocuments("name", "Eva Farná", "age", 31);
+
 
 //todo: POROVNANI HODNOT
 //        getSameTempsTwoPlaces(place1, place2);
