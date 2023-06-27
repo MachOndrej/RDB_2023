@@ -1,2 +1,3 @@
-# RDB_2023
-Semestrální práce na předmět řízení databází. 
+# Semestrální projekt - Řízení databází
+Semestrální práce na předmět řízení databází. Aplikace úkládající meteorologická data.
+Užívá relační i nerelační databáze.
